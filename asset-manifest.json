@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/deployteste/static/css/main.d1b05096.chunk.css",
-    "main.js": "/deployteste/static/js/main.1cb7bb30.chunk.js",
-    "main.js.map": "/deployteste/static/js/main.1cb7bb30.chunk.js.map",
+    "main.js": "/deployteste/static/js/main.30561e1d.chunk.js",
+    "main.js.map": "/deployteste/static/js/main.30561e1d.chunk.js.map",
     "runtime-main.js": "/deployteste/static/js/runtime-main.f1780dd7.js",
     "runtime-main.js.map": "/deployteste/static/js/runtime-main.f1780dd7.js.map",
     "static/js/2.8b84508d.chunk.js": "/deployteste/static/js/2.8b84508d.chunk.js",
     "static/js/2.8b84508d.chunk.js.map": "/deployteste/static/js/2.8b84508d.chunk.js.map",
     "index.html": "/deployteste/index.html",
-    "precache-manifest.f32f36aefcb17ff30ef5542c34dce19a.js": "/deployteste/precache-manifest.f32f36aefcb17ff30ef5542c34dce19a.js",
+    "precache-manifest.3c5e746b62342e715683a4c044235838.js": "/deployteste/precache-manifest.3c5e746b62342e715683a4c044235838.js",
     "service-worker.js": "/deployteste/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/deployteste/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.8b84508d.chunk.js.LICENSE": "/deployteste/static/js/2.8b84508d.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f1780dd7.js",
     "static/js/2.8b84508d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.1cb7bb30.chunk.js"
+    "static/js/main.30561e1d.chunk.js"
   ]
 }
