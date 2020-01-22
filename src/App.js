@@ -1,24 +1,40 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { Layout, Header, Drawer, Content, Navigation } from 'react-mdl';
+import Main from './components/main';
+import { HashRouter,Link } from 'react-router-dom';
+import Clock from './components/clock';
+
+
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="demo-big-content">
+      
+      <Layout>
+     
+        <Header className="header-color" title={<Clock />} scroll>
+     
+          <Navigation>
+
+            <Link to="/websiteportf/">Home</Link>
+            <Link to="/websiteportf/resume">Resume</Link>
+            <Link to="/websiteportf/contact">Contact</Link>
+          </Navigation>
+        </Header>
+        <Drawer title={<Clock />}>
+          <Navigation>
+            <Link to="/websiteportf/">Home</Link>
+            <Link to="/websiteportf/resume">Resume</Link>
+            <Link to="/websiteportf/contact">Contact</Link>
+          </Navigation>
+        </Drawer>
+        <Content>
+          <div className="page-content" />
+          <Main />
+        </Content>
+      </Layout>
     </div>
   );
 }
