@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/deployteste/static/css/main.d1b05096.chunk.css",
-    "main.js": "/deployteste/static/js/main.30561e1d.chunk.js",
-    "main.js.map": "/deployteste/static/js/main.30561e1d.chunk.js.map",
+    "main.css": "/deployteste/static/css/main.a0e0d408.chunk.css",
+    "main.js": "/deployteste/static/js/main.7ac8406f.chunk.js",
+    "main.js.map": "/deployteste/static/js/main.7ac8406f.chunk.js.map",
     "runtime-main.js": "/deployteste/static/js/runtime-main.f1780dd7.js",
     "runtime-main.js.map": "/deployteste/static/js/runtime-main.f1780dd7.js.map",
-    "static/js/2.8b84508d.chunk.js": "/deployteste/static/js/2.8b84508d.chunk.js",
-    "static/js/2.8b84508d.chunk.js.map": "/deployteste/static/js/2.8b84508d.chunk.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "/deployteste/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.78b4c9b6.chunk.js": "/deployteste/static/js/2.78b4c9b6.chunk.js",
+    "static/js/2.78b4c9b6.chunk.js.map": "/deployteste/static/js/2.78b4c9b6.chunk.js.map",
     "index.html": "/deployteste/index.html",
-    "precache-manifest.3c5e746b62342e715683a4c044235838.js": "/deployteste/precache-manifest.3c5e746b62342e715683a4c044235838.js",
+    "precache-manifest.6972834546b78b46d80988c737c27478.js": "/deployteste/precache-manifest.6972834546b78b46d80988c737c27478.js",
     "service-worker.js": "/deployteste/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/deployteste/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.8b84508d.chunk.js.LICENSE": "/deployteste/static/js/2.8b84508d.chunk.js.LICENSE",
-    "static/media/logo.svg": "/deployteste/static/media/logo.5d5d9eef.svg"
+    "static/css/2.a6bc1c31.chunk.css.map": "/deployteste/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.a0e0d408.chunk.css.map": "/deployteste/static/css/main.a0e0d408.chunk.css.map",
+    "static/js/2.78b4c9b6.chunk.js.LICENSE": "/deployteste/static/js/2.78b4c9b6.chunk.js.LICENSE",
+    "static/media/App.css": "/deployteste/static/media/moonblack.f2d85cb2.png",
+    "static/media/logo.svg": "/deployteste/static/media/logo.5d5d9eef.svg",
+    "static/media/mePic-circle-cropped.png": "/deployteste/static/media/mePic-circle-cropped.1dbad0f8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1780dd7.js",
-    "static/js/2.8b84508d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.30561e1d.chunk.js"
+    "static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.78b4c9b6.chunk.js",
+    "static/css/main.a0e0d408.chunk.css",
+    "static/js/main.7ac8406f.chunk.js"
   ]
 }
