@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/deployteste/static/css/main.a0745563.chunk.css",
-    "main.js": "/deployteste/static/js/main.8409ba59.chunk.js",
-    "main.js.map": "/deployteste/static/js/main.8409ba59.chunk.js.map",
-    "runtime-main.js": "/deployteste/static/js/runtime-main.f1780dd7.js",
-    "runtime-main.js.map": "/deployteste/static/js/runtime-main.f1780dd7.js.map",
-    "static/css/2.a6bc1c31.chunk.css": "/deployteste/static/css/2.a6bc1c31.chunk.css",
-    "static/js/2.9fc8446c.chunk.js": "/deployteste/static/js/2.9fc8446c.chunk.js",
-    "static/js/2.9fc8446c.chunk.js.map": "/deployteste/static/js/2.9fc8446c.chunk.js.map",
-    "index.html": "/deployteste/index.html",
-    "precache-manifest.3e763a5f9d8a242cb197be59b76f8e14.js": "/deployteste/precache-manifest.3e763a5f9d8a242cb197be59b76f8e14.js",
-    "service-worker.js": "/deployteste/service-worker.js",
-    "static/css/2.a6bc1c31.chunk.css.map": "/deployteste/static/css/2.a6bc1c31.chunk.css.map",
-    "static/css/main.a0745563.chunk.css.map": "/deployteste/static/css/main.a0745563.chunk.css.map",
-    "static/js/2.9fc8446c.chunk.js.LICENSE": "/deployteste/static/js/2.9fc8446c.chunk.js.LICENSE",
-    "static/media/App.css": "/deployteste/static/media/moonblack.f2d85cb2.png",
-    "static/media/logo.svg": "/deployteste/static/media/logo.5d5d9eef.svg",
-    "static/media/mePic-circle-cropped.png": "/deployteste/static/media/mePic-circle-cropped.1dbad0f8.png"
+    "main.css": "/websiteportf/static/css/main.0a0135fd.chunk.css",
+    "main.js": "/websiteportf/static/js/main.813930a3.chunk.js",
+    "main.js.map": "/websiteportf/static/js/main.813930a3.chunk.js.map",
+    "runtime-main.js": "/websiteportf/static/js/runtime-main.f652e606.js",
+    "runtime-main.js.map": "/websiteportf/static/js/runtime-main.f652e606.js.map",
+    "static/css/2.a6bc1c31.chunk.css": "/websiteportf/static/css/2.a6bc1c31.chunk.css",
+    "static/js/2.68e0dbcf.chunk.js": "/websiteportf/static/js/2.68e0dbcf.chunk.js",
+    "static/js/2.68e0dbcf.chunk.js.map": "/websiteportf/static/js/2.68e0dbcf.chunk.js.map",
+    "index.html": "/websiteportf/index.html",
+    "precache-manifest.4df155cc3baffd19d5816469066a74da.js": "/websiteportf/precache-manifest.4df155cc3baffd19d5816469066a74da.js",
+    "service-worker.js": "/websiteportf/service-worker.js",
+    "static/css/2.a6bc1c31.chunk.css.map": "/websiteportf/static/css/2.a6bc1c31.chunk.css.map",
+    "static/css/main.0a0135fd.chunk.css.map": "/websiteportf/static/css/main.0a0135fd.chunk.css.map",
+    "static/js/2.68e0dbcf.chunk.js.LICENSE": "/websiteportf/static/js/2.68e0dbcf.chunk.js.LICENSE",
+    "static/media/App.css": "/websiteportf/static/media/moonblack.f2d85cb2.png",
+    "static/media/logo.svg": "/websiteportf/static/media/logo.5d5d9eef.svg",
+    "static/media/mePic-circle-cropped.png": "/websiteportf/static/media/mePic-circle-cropped.1dbad0f8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f1780dd7.js",
+    "static/js/runtime-main.f652e606.js",
     "static/css/2.a6bc1c31.chunk.css",
-    "static/js/2.9fc8446c.chunk.js",
-    "static/css/main.a0745563.chunk.css",
-    "static/js/main.8409ba59.chunk.js"
+    "static/js/2.68e0dbcf.chunk.js",
+    "static/css/main.0a0135fd.chunk.css",
+    "static/js/main.813930a3.chunk.js"
   ]
 }
