@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4af8b105f9dc4eec0ceef83fbf6e02",
+    "revision": "1b8061d1562a74cb273e71e5c2004af6",
     "url": "/websiteportf/index.html"
   },
   {
-    "revision": "968b9e633f1a8b2a5a35",
-    "url": "/websiteportf/static/css/2.a6bc1c31.chunk.css"
+    "revision": "c116e41265c9692dcbf0",
+    "url": "/websiteportf/static/css/2.b6a8c48d.chunk.css"
   },
   {
-    "revision": "916ab20871d4e99d6373",
-    "url": "/websiteportf/static/css/main.0a0135fd.chunk.css"
+    "revision": "9348558959fb0f5f2f66",
+    "url": "/websiteportf/static/css/main.e18a895f.chunk.css"
   },
   {
-    "revision": "968b9e633f1a8b2a5a35",
-    "url": "/websiteportf/static/js/2.685358f3.chunk.js"
+    "revision": "c116e41265c9692dcbf0",
+    "url": "/websiteportf/static/js/2.4cc6da83.chunk.js"
   },
   {
-    "revision": "c7abd4a823ee85afac2f05677368b7de",
-    "url": "/websiteportf/static/js/2.685358f3.chunk.js.LICENSE"
+    "revision": "e1d2b252d73a4c2bc4d6802ca4ba1aa0",
+    "url": "/websiteportf/static/js/2.4cc6da83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "916ab20871d4e99d6373",
-    "url": "/websiteportf/static/js/main.ba52e5b1.chunk.js"
+    "revision": "9348558959fb0f5f2f66",
+    "url": "/websiteportf/static/js/main.5add6e9b.chunk.js"
   },
   {
-    "revision": "74b3d203c3e225298673",
-    "url": "/websiteportf/static/js/runtime-main.f652e606.js"
+    "revision": "ba1a3c9a13f18c9adc43",
+    "url": "/websiteportf/static/js/runtime-main.4a8692a3.js"
   },
   {
     "revision": "8d5d6c09212a67031494e23d4043889b",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/websiteportf/static/media/ghost.1c46033a.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/websiteportf/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/websiteportf/static/media/logo.ee7cd8ed.svg"
   },
   {
     "revision": "1dbad0f8acdd9aa311de4d05283deadb",
