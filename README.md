@@ -1,8 +1,8 @@
 ## Portfolio Website 
 
-It Is A Website Containing My Contact Details
+É um site contendo algumas informações minhas.
 
 
-![Project Photo](https://github.com/ArildoMagno/websiteportf/blob/master/webportif.png)
+![Print do Website](https://github.com/ArildoMagno/websiteportf/blob/master/webportif.png)
 
-[Click Here To Go To The Website](https://arildomagno.github.io/websiteportf)
+[Clique aqui para acessar](https://arildomagno.github.io/websiteportf)
